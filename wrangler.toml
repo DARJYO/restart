@@ -1,3 +1,11 @@
 name = "restart-hub"
 compatibility_date = "2025-10-01"
 pages_build_output_dir = "./dist"
+
+# wrangler.toml (wrangler v3.88.0^)
+[observability.logs]
+enabled = false
+
+
+
+
