@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Header from './components/icons/Header';
-import StrategyGenerator from './components/StrategyGenerator';
-import Dashboard from './components/Dashboard';
+import StrategyGenerator from './components/icons/StrategyGenerator';
+import Dashboard from './components/icons/Dashboard';
 import type { MarketingFormData, MarketingStrategy } from './types';
 
 const App: React.FC = () => {
